@@ -1,7 +1,7 @@
 """
 Database creator.
 
-This script creates the database on the user's local machine at its (script's) location. 
+This script creates the database on the user's local machine at its (script's) location.
 It checks if the database exists before creating a new one.
 
 Also, populates the database with dummy data that were captured from a real device.
