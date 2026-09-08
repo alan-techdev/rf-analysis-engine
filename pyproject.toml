@@ -6,7 +6,7 @@ build-backend = "poetry.core.masonry.api"
 
 [project]
 name = "rfserver" # package name same as project name 
-version = "1.0.1"
+version = "1.0.2"
 description = "RF Analysis Engine"
 authors = [
    {name="Iso"}, 
@@ -232,10 +232,3 @@ ignore_errors = false
 
 [tool.coverage.html]
 directory = "coverage_html_report"
-
-
-
-# see scripts/parse_version.py 
-# we need to update in toml file above  and below also
-[tool.software-release]
-version_variable = "src/rfserver/__init__.py:__version__"
