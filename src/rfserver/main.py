@@ -1,5 +1,4 @@
 from argparse import ArgumentParser, Namespace
-from rfserver.rest_api import rest
 
 from rfserver import (
     __author__,  # type:ignore
@@ -10,6 +9,7 @@ from rfserver import (
     __version__,  # type:ignore
 )
 from rfserver._help import bug_reporting
+from rfserver.rest_api import rest
 
 """
 A- Make the project in edit mode
