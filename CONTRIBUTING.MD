@@ -168,7 +168,7 @@ Tox uses pytest under the hood, hence it supports the same syntax for selecting 
 For further information please consult the [pytest usage docs](http://pytest.org/en/latest/example/index.html).
 
 
-To run all tests using various versions of python in virtualenvs defined in tox.ini, just run tox:
+To run all tests using various versions of python in virtual envs defined in tox.ini, just run tox:
 
 ```bash
 tox
