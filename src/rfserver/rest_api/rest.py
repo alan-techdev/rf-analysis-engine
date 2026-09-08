@@ -18,7 +18,7 @@ app = Flask(__name__)
     methods=["GET"],
 )
 def search(
-    min_power, max_power, min_frequency, max_frequency
+    min_power: float, max_power: float, min_frequency: float, max_frequency: float
 ) -> list[tuple[int, float, float, str]]:
     """Search API endpoint.
 
@@ -49,7 +49,7 @@ def search(
                 (91, 104.3, 20.18, '06-06-2025 12:16:18')
             ]
     """
-    result = DetailDataBaseManager.search_power_frequency(
+    result:list[tuple[int, float, float, str]] = DetailDataBaseManager.search_power_frequency(
         min_power, max_power, min_frequency, max_frequency
     )
     return result

@@ -12,7 +12,7 @@ COMMUNITY VERSION
 .. start-badges see https://shields.io/badges and collection see https://github.com/inttter/md-badges
 
 | |build| |release_version| |wheel|
-| |docs| |pylint| |supported_versions|
+| |docs| |supported_versions| |contributors|
 | |ruff| |gh-lic| |commits_since_specific_tag_on_main|
 
 
@@ -23,12 +23,12 @@ COMMUNITY VERSION
 ==========
 Change Log
 ==========
-| `Change Log <https://github.com/alanmehio/rf-analysis-engine/blob/main/CHANGELOG.rst>`_.
+| `Change Log <https://github.com/alan-techdev/rf-analysis-engine/blob/main/CHANGELOG.rst>`_.
 
 ==========
 Quickstart
 ==========
-| `Usage <https://github.com/alanmehio/rf-analysis-engine/blob/main/docs/source/contents/usage.rst>`_.
+| `Usage <https://github.com/alan-techdev/rf-analysis-engine/blob/main/docs/source/contents/usage.rst>`_.
 
 =======
 License
@@ -40,7 +40,7 @@ License
 
 .. LINKS
 
-.. _GNU Affero General Public License v3.0: https://github.com/alanmehio/rf-analysis-engine/blob/main/LICENSE
+.. _GNU Affero General Public License v3.0: https://github.com/alan-techdev/rf-analysis-engine/blob/main/LICENSE
 
 
 
@@ -49,9 +49,9 @@ License
 .. Build Status
 .. Github Actions: Test Workflow Status for specific branch <branch>
 
-.. |build| image:: https://img.shields.io/github/workflow/status/alanmehio/rf-analysis-engine/actions/workflows/ci_cd.yaml/badge.svg
+.. |build| image:: https://img.shields.io/github/workflow/status/alan-techdev/rf-analysis-engine/actions/workflows/ci_cd.yaml/badge.svg
     :alt: GitHub Workflow Status (branch)
-    :target: https://github.com/alanmehio/rf-analysis-engine/actions
+    :target: https://github.com/alan-techdev/rf-analysis-engine/actions
 
 
 .. Documentation
@@ -60,8 +60,9 @@ License
     :alt: Read the Docs (version)
     :target: https://rf-analysis-engine.readthedocs.io/en/latest/
 
-.. |pylint| image:: https://img.shields.io/badge/linting-pylint-yellowgreen
-    :target: https://github.com/pylint-dev/pylint
+.. |contributors| image:: https://img.shields.io/github/contributors/alan-techdev/rf-surveillance-node?color=blue&logo=github
+    :alt: GitHub contributors
+    :target: https://github.com/alan-techdev/rf-surveillance-node/graphs/contributors
 
 .. PyPI
 
@@ -78,19 +79,16 @@ License
     :target: https://pypi.org/project/rfserver
 .. Github Releases & Tags
 
-.. |commits_since_specific_tag_on_main| image:: https://img.shields.io/github/commits-since/alanmehio/rf-analysis-engine/release-1.0.0/main?color=blue&logo=github
+.. |commits_since_specific_tag_on_main| image:: https://img.shields.io/github/commits-since/alan-techdev/rf-analysis-engine/release-1.0.0/main?color=blue&logo=github
     :alt: GitHub commits since tagged version (branch)
-    :target: https://github.com/alanmehio/rf-analysis-engine/compare/release-1.0.0..main
-
-.. |commits_since_latest_github_release| image:: https://img.shields.io/github/commits-since/alanmehio/rf-analysis-engine/latest?color=blue&logo=semver&sort=semver
-    :alt: GitHub commits since latest release (by SemVer)
+    :target: https://github.com/alan-techdev/rf-analysis-engine/compare/release-1.0.0..main
 
 .. LICENSE (eg AGPL, MIT)
 .. Github License
 
 .. |gh-lic| image:: https://img.shields.io/badge/license-GNU_Affero-orange
     :alt: GitHub
-    :target: https://github.com/alanmehio/rf-analysis-engine/blob/main/LICENSE
+    :target: https://github.com/alan-techdev/rf-analysis-engine/blob/main/LICENSE
 
 
 .. Ruff linter for Fast Python Linting
