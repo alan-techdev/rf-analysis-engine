@@ -16,8 +16,8 @@ maintainers = [{name="Iso"}, {name="Alan"}] # must be an object
 license = "AGPL-3.0-only"
 readme = {file = "README.rst", content-type = "text/x-rst"}
 
-homepage = "https://github.com/alanmehio/rf-analysis-engine"
-repository = "https://github.com/alanmehio/rf-analysis-engine"
+homepage = "https://github.com/alan-techdev/rf-analysis-engine"
+repository = "https://github.com/alan-techdev/rf-analysis-engine"
 documentation = "https://rf-analysis-engine.readthedocs.io/"
 
 keywords = [
@@ -48,11 +48,11 @@ classifiers = [
 
 
 # PyPi url links, that appear in 'Project Links' section
-urls."Bug Tracker" = "https://github.com/alanmehio/rf-analysis-engine/issues"
-urls."CI: Github Actions" = "https://github.com/alanmehio/rf-analysis-engine/actions"
+urls."Bug Tracker" = "https://github.com/alan-techdev/rf-analysis-engine/issues"
+urls."CI: Github Actions" = "https://github.com/alan-techdev/rf-analysis-engine/actions"
 urls.Documentation = "https://rf-analysis-engine.readthedocs.io/"
-urls."Source Code" = "https://github.com/alanmehio/rf-analysis-engine"
-urls.Changelog = "https://github.com/alanmehio/rf-analysis-engine/blob/master/CHANGELOG.rst"
+urls."Source Code" = "https://github.com/alan-techdev/rf-analysis-engine"
+urls.Changelog = "https://github.com/alan-techdev/rf-analysis-engine/blob/master/CHANGELOG.rst"
 
 
 

@@ -12,7 +12,7 @@ Development
 
 .. code-block:: shell
 
-    git clone git@github.com:alanmehio/rf-analysis-engine.git
+    git clone git@github.com:alan-techdev/rf-analysis-engine.git
     cd  rf-analysis-engine
 
 | Make the project in edit mode  
