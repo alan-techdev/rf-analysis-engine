@@ -60,9 +60,9 @@ License
     :alt: Read the Docs (version)
     :target: https://rf-analysis-engine.readthedocs.io/en/latest/
 
-.. |contributors| image:: https://img.shields.io/github/contributors/alan-techdev/rf-surveillance-node?color=blue&logo=github
+.. |contributors| image:: https://img.shields.io/github/contributors/alan-techdev/rf-analysis-engine?color=blue&logo=github
     :alt: GitHub contributors
-    :target: https://github.com/alan-techdev/rf-surveillance-node/graphs/contributors
+    :target: https://github.com/alan-techdev/rf-analysis-engine/graphs/contributors
 
 .. PyPI
 
